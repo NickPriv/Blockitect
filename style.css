@@ -1,0 +1,33 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Courier New';
+}
+
+a {
+	color: orange;
+}
+
+a:hover {
+	color: maroon;
+}
+
+p {
+	font-size: 12px;
+}
+
+h1 {
+	font-size: 3em;
+	/*margin-top: .33em;
+	margin-bottom: .33em;*/
+}
+/*
+h3 {
+	margin-top: .80em;
+	margin-bottom: .80em;
+}
+
+h2 {
+	margin-top: .63em;
+	margin-bottom: .63em;
+}*/
